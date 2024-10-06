@@ -1,3 +1,3 @@
-Bu proje, bootcamp'e katılma nedenimi ve adımı soyadımı içeren basit bir çıktıdan oluşan uygulamadım
+Bu proje adınımı, soyadınızı ve Patika Bootcamp'inde olma nedeninimi console ekranına yazdıran bir uygulamadır.
 
 
